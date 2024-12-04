@@ -20,9 +20,18 @@
 
 ## bat
 
-- Source:
+- Source: https://github.com/sharkdp/bat
 - Syntax highlight
 
   ```
   brew install bat
   ```
+
+  ## gh
+
+  - Source: https://github.com/cli/cli
+  - github client
+ 
+    ```
+    brew install gh
+    ```
