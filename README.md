@@ -27,11 +27,11 @@
   brew install bat
   ```
 
-  ## gh
+## gh
 
-  - Source: https://github.com/cli/cli
-  - github client
- 
-    ```
-    brew install gh
-    ```
+- Source: https://github.com/cli/cli
+- github client
+
+  ```
+  brew install gh
+  ```
