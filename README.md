@@ -35,3 +35,12 @@
   ```
   brew install gh
   ```
+
+## buf
+
+- Source: https://github.com/bufbuild/buf
+- cli for protocol buffers
+ 
+  ```
+  brew install bufbuild/buf/buf
+  ```
