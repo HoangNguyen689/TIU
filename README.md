@@ -44,3 +44,14 @@
   ```
   brew install bufbuild/buf/buf
   ```
+
+## podman
+
+
+## libpq
+
+- lib for postgresql client
+
+  ```
+  brew install libpq
+  ```
